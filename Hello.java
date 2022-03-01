@@ -9,6 +9,7 @@ int d=6566;
 s=s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
 a=sushma;
   System.out.println(a);
-
+String s="hello";
+System.out.println(S);
 }
 }
